@@ -1,4 +1,2 @@
-- 👋 Hi, I’m @ToClickx
-- 👀 I’m interested in python coding
-- 🌱 I’m currently learning pythong 3.11
-- 📫 How to reach me is by my discord toclick
+Really just a small notepad project.
+If you would like to get in contact with me you can message/add me on discord. My name is toclick
