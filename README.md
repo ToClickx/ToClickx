@@ -1,2 +1,2 @@
-Really just a small notepad project.
-If you would like to get in contact with me you can message/add me on discord. My name is toclick
+Hello, I am a python 3.11 coder and I make small projects.
+If you would like to reach me you can message or add me on discord. My name on discord is toclick
